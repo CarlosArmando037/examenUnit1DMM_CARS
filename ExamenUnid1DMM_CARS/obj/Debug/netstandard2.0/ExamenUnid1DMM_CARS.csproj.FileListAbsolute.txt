@@ -1,0 +1,16 @@
+C:\Users\cd17\Desktop\Carlos Armando\ExamenUnid1DMM_CARS\ExamenUnid1DMM_CARS\bin\Debug\netstandard2.0\ExamenUnid1DMM_CARS.deps.json
+C:\Users\cd17\Desktop\Carlos Armando\ExamenUnid1DMM_CARS\ExamenUnid1DMM_CARS\bin\Debug\netstandard2.0\ExamenUnid1DMM_CARS.dll
+C:\Users\cd17\Desktop\Carlos Armando\ExamenUnid1DMM_CARS\ExamenUnid1DMM_CARS\bin\Debug\netstandard2.0\ExamenUnid1DMM_CARS.pdb
+C:\Users\cd17\Desktop\Carlos Armando\ExamenUnid1DMM_CARS\ExamenUnid1DMM_CARS\obj\Debug\netstandard2.0\ExamenUnid1DMM_CARS.csproj.AssemblyReference.cache
+C:\Users\cd17\Desktop\Carlos Armando\ExamenUnid1DMM_CARS\ExamenUnid1DMM_CARS\obj\Debug\netstandard2.0\ExamenUnid1DMM_CARS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cd17\Desktop\Carlos Armando\ExamenUnid1DMM_CARS\ExamenUnid1DMM_CARS\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\cd17\Desktop\Carlos Armando\ExamenUnid1DMM_CARS\ExamenUnid1DMM_CARS\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\cd17\Desktop\Carlos Armando\ExamenUnid1DMM_CARS\ExamenUnid1DMM_CARS\obj\Debug\netstandard2.0\View\Calcular.xaml.g.cs
+C:\Users\cd17\Desktop\Carlos Armando\ExamenUnid1DMM_CARS\ExamenUnid1DMM_CARS\obj\Debug\netstandard2.0\ExamenUnid1DMM_CARS.AssemblyInfoInputs.cache
+C:\Users\cd17\Desktop\Carlos Armando\ExamenUnid1DMM_CARS\ExamenUnid1DMM_CARS\obj\Debug\netstandard2.0\ExamenUnid1DMM_CARS.AssemblyInfo.cs
+C:\Users\cd17\Desktop\Carlos Armando\ExamenUnid1DMM_CARS\ExamenUnid1DMM_CARS\obj\Debug\netstandard2.0\ExamenUnid1DMM_CARS.csproj.CoreCompileInputs.cache
+C:\Users\cd17\Desktop\Carlos Armando\ExamenUnid1DMM_CARS\ExamenUnid1DMM_CARS\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\cd17\Desktop\Carlos Armando\ExamenUnid1DMM_CARS\ExamenUnid1DMM_CARS\obj\Debug\netstandard2.0\ExamenUnid1DMM_CARS.dll
+C:\Users\cd17\Desktop\Carlos Armando\ExamenUnid1DMM_CARS\ExamenUnid1DMM_CARS\obj\Debug\netstandard2.0\refint\ExamenUnid1DMM_CARS.dll
+C:\Users\cd17\Desktop\Carlos Armando\ExamenUnid1DMM_CARS\ExamenUnid1DMM_CARS\obj\Debug\netstandard2.0\ExamenUnid1DMM_CARS.pdb
+C:\Users\cd17\Desktop\Carlos Armando\ExamenUnid1DMM_CARS\ExamenUnid1DMM_CARS\obj\Debug\netstandard2.0\ref\ExamenUnid1DMM_CARS.dll
