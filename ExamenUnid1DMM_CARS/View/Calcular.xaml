@@ -10,10 +10,8 @@
                    />
 
         </StackLayout>
-        <RadioButton Value="IMC">
+        <!--peso por altura al cuadrado-->
 
-        </RadioButton>
-        <RadioButton Value="FCN"/>
         <!--peso por altura al cuadrado-->
 
         <StackLayout BackgroundColor="LightBlue" Margin="0,60,0,0">
@@ -21,18 +19,27 @@
                    FontSize="25"
                    TextColor="Black"/>
             <Grid>
-                <RadioButton Value="IMC" Content="IMC" Grid.Column="0" Grid.Row="0" HorizontalOptions="Center"/>
-                <RadioButton Value="FCN" Content="FCN" Grid.Column="1" Grid.Row="0"/>
+                <RadioButton Value="IMC" Content="IMC" Grid.Column="0" Grid.Row="0" HorizontalOptions="Center" IsChecked="{Binding IMC}"/>
+                <RadioButton Value="FCN" Content="FCN" Grid.Column="1" Grid.Row="0" IsChecked="{Binding FCN}"/>
 
             </Grid>
 
-            <Entry Placeholder="Altura" Text="{Binding Altura}"/>
-            <Entry Placeholder="Peso" Text="{Binding Peso}"/>
 
-            <Entry Placeholder="Peso" Text="{Binding Resultado}"/>
+                <Entry Placeholder="Altura" IsVisible="{Binding IMC}" Text="{Binding Altura}"
+                       />
+                <Entry Placeholder="Peso" IsVisible="{Binding IMC}" Text="{Binding Peso}"
+                       />
+            <Entry Placeholder="respuesta" IsVisible="{Binding IMC}" Text="{Binding ResultadoIMC}"/>
 
 
-            <Button Text="calcular"/>
+            <Entry Placeholder="Ritmo Cartidaco" Text="{Binding Cardio}" 
+                   IsVisible="{Binding FCN}"/>
+            <Entry Placeholder="" Text="{Binding ResultadoFCN}" IsVisible="{Binding FCN}"/>
+
+            <Button Text="calcular IMC" Command="{ Binding ProcesoIMCSimpcomand}" IsVisible="{Binding IMC}"/>
+
+            <Button Text="calcular FNC" Command="{ Binding ProcesoFCNSimpcomand}" IsVisible="{Binding FCN}"/>
+
         </StackLayout>
         
         
